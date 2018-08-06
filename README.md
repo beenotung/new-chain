@@ -1,11 +1,12 @@
-## new-chain [![Build Status](https://travis-ci.org/azer/new-chain.png?branch=master)](https://travis-ci.org/azer/new-chain)
+## new-chain
+[![npm Package Version](https://img.shields.io/npm/v/new-chain.js.svg?maxAge=2592000)](https://www.npmjs.com/package/new-chain.js)
 
 Create chaining APIs from functions
 
 ## Install
 
 ```bash
-$ npm install new-chain
+$ npm install new-chain.js
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "new-chain",
+  "name": "new-chain.js",
   "version": "0.0.1",
   "description": "Create chaining APIs from functions",
   "main": "index.js",
@@ -9,10 +9,14 @@
   "devDependencies": {
     "fox": "*"
   },
-  "repository": {
-    "url": "git@github.com:azer/new-chain.git",
-    "type": "git"
-  },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
-  "license": "BSD"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/new-chain.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/new-chain.js/issues"
+  },
+  "homepage": "https://github.com/beenotung/new-chain.js#readme"
 }
