@@ -10,6 +10,7 @@
     "fox": "*"
   },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "contributors": ["Beeno Tung <aabbcc1241@yahoo.com.hk>"],
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
